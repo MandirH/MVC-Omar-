@@ -1,0 +1,6 @@
+Nombre: Mandir
+Apellido: Huasco
+tipo: Administrador
+
+codigo: 11223344
+contraseña 1234
